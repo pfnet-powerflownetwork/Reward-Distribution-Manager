@@ -52,7 +52,7 @@ public class ReferralManager {
     }
 
     /**
-     * Displays the referral map for debugging or analytics.
+     *   Displays the referral map for debugging or analytics.
      */
     public void displayReferrals() {
         System.out.println("[INFO] Current Referrals:");
